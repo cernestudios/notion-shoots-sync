@@ -1,4 +1,4 @@
-name: Notion-Calendar Sync (Tasks)
+name: Notion-Calendar Sync (Shoots)
 
 on:
   workflow_dispatch: {}
